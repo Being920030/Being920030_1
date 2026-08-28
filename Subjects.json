@@ -1,0 +1,438 @@
+{
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {},
+    "Subjects":   }
+  },
+  "Subjects": {
+    "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+      "Name": "语文",
+      "Initial": "语",
+      "TeacherName": "施萌萌",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
+      "Name": "数学",
+      "Initial": "数",
+      "TeacherName": "董丽丽",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
+      "Name": "英语",
+      "Initial": "英",
+      "TeacherName": "孙超",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
+      "Name": "历史",
+      "Initial": "历",
+      "TeacherName": "赵龙沛",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
+      "Name": "道德与法治",
+      "Initial": "道",
+      "TeacherName": "汪聪莹",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
+      "Name": "物理",
+      "Initial": "物",
+      "TeacherName": "胡玮庭",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
+      "Name": "化学",
+      "Initial": "化",
+      "TeacherName": "余碧君",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
+      "Name": "生物",
+      "Initial": "生",
+      "TeacherName": "陆宇莹",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
+      "Name": "地理",
+      "Initial": "地",
+      "TeacherName": "宋淑敏",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "66d1c380-d292-46e1-86d5-d403e2a4f200": {
+      "Name": "信息技术",
+      "Initial": "信",
+      "TeacherName": "张焕",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
+      "Name": "体育",
+      "Initial": "体",
+      "TeacherName": "朱红岩",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "923f4a8b-51eb-468b-971d-bb02e7db0163": {
+      "Name": "自习",
+      "Initial": "自",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "0d412099-dac6-4616-b6a7-c4fb76b12063": {
+      "Name": "通用技术",
+      "Initial": "技",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "91a88ebb-8ecb-493e-b09c-e35718f01dce": {
+      "Name": "音乐",
+      "Initial": "音",
+      "TeacherName": "李静",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "742b00dc-901b-496f-ae33-6714a13fa465": {
+      "Name": "美术",
+      "Initial": "美",
+      "TeacherName": "张易晨",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "353c420e-c256-4e28-9f9c-283333ba6e62": {
+      "Name": "选修课",
+      "Initial": "选",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "cc826063-bdb7-492b-baf3-3c6877e8c4bf": {
+      "Name": "社团",
+      "Initial": "社",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "31380edc-400d-46c2-b993-a5c4a43db126": {
+      "Name": "心理",
+      "Initial": "心",
+      "TeacherName": "周丽",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "9875b24c-470d-4195-8a6a-73925ea4808b": {
+      "Name": "早读",
+      "Initial": "早",
+      "TeacherName": "各科老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "cf251cd8-2aab-4aa1-8211-50f4e6919a3d": {
+      "Name": "班会",
+      "Initial": "班",
+      "TeacherName": "董丽丽",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "95dd61cd-5d2e-4f23-80e8-99be8aa97028": {
+      "Name": "周测",
+      "Initial": "测",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "8e06760e-28d8-4391-9116-b44ba07f2ccf": {
+      "Name": "物理+化学",
+      "Initial": "物+化",
+      "TeacherName": "胡玮庭+余碧君",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+       "125fc60f-eb75-4f78-8c03-c93b1fe3dac7": {
+      "Name": "语文考试",
+      "Initial": "语考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "2cac357d-98d6-4b8a-9f93-752ea3be57e9": {
+      "Name": "数学考试",
+      "Initial": "数考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "dcac1114-ca40-4c5c-bc05-96d9c83f2a35": {
+      "Name": "英语考试",
+      "Initial": "英考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "b1210eb6-6852-446c-9106-bc81d1b45f88": {
+      "Name": "道法考试",
+      "Initial": "道考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "6b4603f9-b815-4a9a-9e7e-0140e822fdf1": {
+      "Name": "历史考试",
+      "Initial": "历考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "5ae561d9-ea7f-434c-8c21-d8257d7fdf19": {
+      "Name": "物理+化学考试",
+      "Initial": "理化考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "7c904a30-e415-4c94-89c7-08da1f631140": {
+      "Name": "第一节课",
+      "Initial": "一",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "35b7938b-1889-4190-a563-2275b9a22801": {
+      "Name": "第二节课",
+      "Initial": "二",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "60bdc3ec-b0db-42cc-a35e-964b543de5b7": {
+      "Name": "第三节课",
+      "Initial": "三",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "36a829e3-ee14-4921-9a18-0fc5a34cb26a": {
+      "Name": "第四节课",
+      "Initial": "四",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "cba4b1f1-064d-424a-a0fb-ae0a0bfd2ed6": {
+      "Name": "第五节课",
+      "Initial": "五",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "12af47cc-b6e8-4168-8c3a-f329c8149f5a": {
+      "Name": "第六节课",
+      "Initial": "六",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "75fa5993-2d8a-47d2-9b72-ebcc247882a3": {
+      "Name": "第七节课",
+      "Initial": "七",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "9709a8a1-30e8-4482-a9e2-a9721d495065": {
+      "Name": "第八节课",
+      "Initial": "八",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "17028afe-f660-41ce-bfb6-17a264ed5bf0": {
+      "Name": "课后服务第1时段",
+      "Initial": "课服1",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "fccbc3fa-7d58-4a26-9847-facee11176c0": {
+      "Name": "课后服务第2时段",
+      "Initial": "课服2",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "b4b284c7-3392-44ef-aea5-23ee222a6244": {
+      "Name": "生物学业考试",
+      "Initial": "生考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "db9ebea9-017d-4590-a1ee-ab7291af7cf0": {
+      "Name": "地理学业考试",
+      "Initial": "地考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "263353db-a361-46ca-912a-360495eae895": {
+      "Name": "化学+物理",
+      "Initial": "化+物",
+      "TeacherName": "余碧君+胡玮庭",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "e39a1430-315c-42c2-ae8f-b824189c4650": {
+      "Name": "物理考试",
+      "Initial": "物考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "a23bed48-1fbc-4d01-b12f-8329b0d4159e": {
+      "Name": "化学考试",
+      "Initial": "化考",
+      "TeacherName": "监考老师",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    }
+  },
